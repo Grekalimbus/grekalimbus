@@ -3,7 +3,7 @@
 <h4 align="left">I'm a Frontend Web Developer🧊</h4>
 
 <a href="#debabin-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=amangeldi0&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="amangeldi0" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=grekalimbus0&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="grekalimbus" align="right" />
 </a>
 
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/makakanos)**
@@ -96,7 +96,7 @@
 ## :comet: Contact
 
 <a href="#amangeldi-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangeldi0&show_icons=true&locale=en&layout=compact&theme=react" alt="amangeldi0" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=grekalimbus&show_icons=true&locale=en&layout=compact&theme=react" alt="grekalimbus" />
 </a>
 
 - :airplane: &nbsp;**[Telegram](https://t.me/makakanos)**
