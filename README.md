@@ -5,7 +5,13 @@
 <a href="#debabin-title">
   <img src="https://github-readme-stats.vercel.app/api?username=grekalimbus&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="grekalimbus" align="right" />
 </a>
+- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/amangeldi0)**
+- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/amangeldi0)**
+- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/amangeldi0)**
 
+- :sunglasses:&nbsp;Young promising
+- :grinning:&nbsp;Sociable and friendly
+- :love_letter: &nbsp;Let's talk more in **[Instagram](https://www.instagram.com/danilimbus/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/makakanos)**
 
 <br>
