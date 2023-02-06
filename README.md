@@ -3,7 +3,7 @@
 <h4 align="left">I'm a Frontend Web Developer🧊</h4>
 
 <a href="#debabin-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=grekalimbus0&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="grekalimbus" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=grekalimbus&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="grekalimbus" align="right" />
 </a>
 
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/makakanos)**
