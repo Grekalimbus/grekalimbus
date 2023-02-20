@@ -2,10 +2,6 @@
 
 <h4 align="left">I'm a Frontend Web Developer🧊</h4>
 
-<a href="#debabin-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=grekalimbus&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="grekalimbus" align="right" />
-</a>
-
 - :sunglasses:&nbsp;Young promising
 - :grinning:&nbsp;Sociable and friendly
 - :love_letter: &nbsp;Let's talk more in **[Instagram](https://www.instagram.com/danilimbus/)**
