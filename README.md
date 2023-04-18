@@ -39,25 +39,18 @@
       </a>
       <br>Npm
     </td>
-  </tr> 
-</table>
-
-> Code quality
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
-      </a>
-      <br>Eslint
-    </td>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
+        <img src="https://i.postimg.cc/1txPVb0d/nodejs-original-logo-icon-146411.png" width="48" height="48" alt="NodeJs" />
       </a>
-      <br>Prettier
-    </td>
+      <br>NodeJS
+    </td> 
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://i.postimg.cc/TwQ7vDPc/typescript-plain-logo-icon-146316.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>       
   </tr> 
 </table>
 
@@ -89,6 +82,25 @@
       </a>
       <br>Html5
     </td>     
+  </tr> 
+</table>
+
+> Code quality
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
+      </a>
+      <br>Eslint
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
+      </a>
+      <br>Prettier
+    </td>
   </tr> 
 </table>
 
