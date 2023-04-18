@@ -1,11 +1,14 @@
 <h1 align="left">:wave: Hello there! I'm Danil Grechkin</h1>
 
-<h4 align="left">I'm a Frontend Web Developer🧊</h4>
+<h4 align="left">I'm a FullStack React Web Developer🧊</h4>
 
 - :sunglasses:&nbsp;Young promising
 - :grinning:&nbsp;Sociable and friendly
+- :love_letter: &nbsp;My site portfolio **[Portfolio](my-works-zeta.vercel.app/)**
 - :love_letter: &nbsp;Let's talk more in **[Instagram](https://www.instagram.com/danilimbus/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/makakanos)**
+- :closed_book: &nbsp;My resume **[HH](https://hh.ru/resume/cb5d61dbff0bc77d7c0039ed1f6d6132455a55)**
+- :heart: &nbsp;Let's talk more in **[LinkedIn](https://www.linkedin.com/in/danil-grechkin-63679b268/)**
 
 <br>
 
@@ -141,16 +144,12 @@
   </tr> 
 </table>
 
-## :comet: Contact
+##
 
-<a href="#amangeldi-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=grekalimbus&show_icons=true&locale=en&layout=compact&theme=react" alt="grekalimbus" />
-</a>
 <a href="#amangeldi-title">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=grekalimbus&show_icons=true&theme=radical" alt="grekalimbus" />
 </a>
-
-- :airplane: &nbsp;**[Telegram](https://t.me/makakanos)**
-- :camera: &nbsp;**[Instagram](https://www.instagram.com/danilimbus/)**
-
+<a href="#amangeldi-title">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=grekalimbus&show_icons=true&locale=en&layout=compact&theme=react" alt="grekalimbus" />
+</a>
 <br>
