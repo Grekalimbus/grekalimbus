@@ -146,6 +146,9 @@
 <a href="#amangeldi-title">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=grekalimbus&show_icons=true&locale=en&layout=compact&theme=react" alt="grekalimbus" />
 </a>
+<a href="#amangeldi-title">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=grekalimbus&show_icons=true&theme=radical" alt="grekalimbus" />
+</a>
 
 - :airplane: &nbsp;**[Telegram](https://t.me/makakanos)**
 - :camera: &nbsp;**[Instagram](https://www.instagram.com/danilimbus/)**
