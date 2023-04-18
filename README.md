@@ -38,19 +38,19 @@
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
       </a>
       <br>Npm
-    </td>
-    <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://i.postimg.cc/1txPVb0d/nodejs-original-logo-icon-146411.png" width="48" height="48" alt="NodeJs" />
-      </a>
-      <br>NodeJS
-    </td> 
+    </td>    
     <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://i.postimg.cc/TwQ7vDPc/typescript-plain-logo-icon-146316.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
-    </td>       
+    </td>     
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://i.postimg.cc/sDX6z91L/jest.png" width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>        
   </tr> 
 </table>
 
@@ -70,18 +70,55 @@
       </a>
       <br>Redux
     </td>
-     <td align="center" width="96"> 
-      <a href="#amangeldi-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
     <td align="center" width="96">
       <a href="#amangeldi-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
-    </td>     
+    </td> 
+     <td align="center" width="96"> 
+      <a href="#amangeldi-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>Css3
+    </td>       
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://i.postimg.cc/m2CwBXB8/bootstrap.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>      
+  </tr> 
+</table>
+
+> Backend
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://i.postimg.cc/1txPVb0d/nodejs-original-logo-icon-146411.png" width="48" height="48" alt="NodeJs" />
+      </a>
+      <br>NodeJS
+    </td> 
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://i.postimg.cc/Hk3kMmTn/mongo.png" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td> 
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://i.postimg.cc/xdcnbbsp/postman.png" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td> 
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://i.postimg.cc/PqxYp2nG/FB.png" width="48" height="48" alt="FireBase" />
+      </a>
+      <br>FireBase
+    </td> 
   </tr> 
 </table>
 
