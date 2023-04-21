@@ -122,6 +122,12 @@
       </a>
       <br>FireBase
     </td> 
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://i.postimg.cc/rFNbvS1K/nestjs.jpg" width="48" height="48" alt="NestJS" />
+      </a>
+      <br>NestJS
+    </td> 
   </tr> 
 </table>
 
