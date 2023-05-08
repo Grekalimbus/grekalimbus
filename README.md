@@ -67,6 +67,12 @@
       </a>
       <br>React JS
     </td>
+    <td align="center" width="96">
+      <a href="#amangeldi-stack">
+        <img src="https://yt3.ggpht.com/ytc/AKedOLShJwhCsYpSGZc1T6Pas0p4S69vz8ue6wLo00x3=s900-c-k-c0x00ffffff-no-rj" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
+    </td>
     <td align="center" width="96"> 
       <a href="#amangeldi-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
