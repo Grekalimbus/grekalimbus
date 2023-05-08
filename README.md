@@ -96,13 +96,7 @@
         <img src="https://i.postimg.cc/m2CwBXB8/bootstrap.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
-    </td>      
-    <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://i.postimg.cc/wxXS8bHL/styled-components-global-styles.png" width="48" height="48" alt="styled component" />
-      </a>
-      <br>Styled component
-    </td>      
+    </td>       
   </tr> 
 </table>
 
