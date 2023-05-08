@@ -101,7 +101,7 @@
       <a href="#debabin-stack">
         <img src="https://i.postimg.cc/wxXS8bHL/styled-components-global-styles.png" width="48" height="48" alt="styled component" />
       </a>
-      <br>
+      <br>Styled component
     </td>      
   </tr> 
 </table>
