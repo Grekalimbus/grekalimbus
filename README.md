@@ -97,6 +97,12 @@
       </a>
       <br>Bootstrap
     </td>      
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://cdn-media-1.freecodecamp.org/images/1*WI_n7M5OYeUh0SrkXZVGyw.png" width="48" height="48" alt="styled component" />
+      </a>
+      <br>styled component
+    </td>      
   </tr> 
 </table>
 
