@@ -99,7 +99,7 @@
     </td>      
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://cdn-media-1.freecodecamp.org/images/1*WI_n7M5OYeUh0SrkXZVGyw.png" width="48" height="48" alt="styled component" />
+        <img src="https://i.postimg.cc/wxXS8bHL/styled-components-global-styles.png" width="48" height="48" alt="styled component" />
       </a>
       <br>
     </td>      
