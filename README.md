@@ -4,7 +4,7 @@
 
 - :sunglasses:&nbsp;Young promising
 - :grinning:&nbsp;Sociable and friendly
-- :art: &nbsp;My site portfolio **[Portfolio](my-works-zeta.vercel.app/)**
+- :art: &nbsp;My site portfolio **[Portfolio](https://my-works-zeta.vercel.app/)**
 - :love_letter: &nbsp;Let's talk more in **[Instagram](https://www.instagram.com/danilimbus/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/makakanos)**
 - :closed_book: &nbsp;My resume **[HH](https://hh.ru/resume/cb5d61dbff0bc77d7c0039ed1f6d6132455a55)**
