@@ -93,13 +93,13 @@
     </td>       
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://i.postimg.cc/m2CwBXB8/bootstrap.png](https://miro.medium.com/v2/resize:fit:1200/1*elhu-42TzQEdsFjKDbQhhA.png" width="48" height="48" alt="React-query" />
+        <img src="https://miro.medium.com/v2/resize:fit:1200/1*elhu-42TzQEdsFjKDbQhhA.png" width="48" height="48" alt="React-query" />
       </a>
       <br>React-query
     </td>     
       <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://miro.medium.com/v2/resize:fit:1176/1*Cx2cVfQtyBhZHMjw34Natg.png" width="48" height="48" alt="GraphQL" />
+        <img src="https://miro.medium.com/v2/resize:fit:1200/1*di7bhLC_gIwXRtEBiOvwSg.png" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>       
