@@ -4,7 +4,7 @@
 
 - :sunglasses:&nbsp;Young promising
 - :grinning:&nbsp;Sociable and friendly
-- :art: &nbsp;My site portfolio **[Portfolio](https://my-works-zeta.vercel.app/)**
+- :art: &nbsp;My site portfolio **[Portfolio](https://new-portfolio-peach-ten.vercel.app/)**
 - :love_letter: &nbsp;Let's talk more in **[Instagram](https://www.instagram.com/danilimbus/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/makakanos)**
 - :closed_book: &nbsp;My resume **[HH](https://hh.ru/resume/cee3ba87ff0d8db1370039ed1f7a5665496f4a)**
@@ -93,9 +93,15 @@
     </td>       
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://i.postimg.cc/m2CwBXB8/bootstrap.png" width="48" height="48" alt="Bootstrap" />
+        <img src="https://i.postimg.cc/m2CwBXB8/bootstrap.png](https://miro.medium.com/v2/resize:fit:1200/1*elhu-42TzQEdsFjKDbQhhA.png" width="48" height="48" alt="React-query" />
       </a>
-      <br>Bootstrap
+      <br>React-query
+    </td>     
+      <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://miro.medium.com/v2/resize:fit:1176/1*Cx2cVfQtyBhZHMjw34Natg.png" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
     </td>       
   </tr> 
 </table>
