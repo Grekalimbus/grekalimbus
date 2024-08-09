@@ -102,7 +102,14 @@
         <img src="https://miro.medium.com/v2/resize:fit:1200/1*di7bhLC_gIwXRtEBiOvwSg.png" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
-    </td>       
+    </td>      
+    </td>     
+      <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/download_JMh44LH.png" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>    
   </tr> 
 </table>
 
