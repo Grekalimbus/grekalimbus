@@ -7,8 +7,8 @@
 - :art: &nbsp;My site portfolio **[Portfolio](https://my-works-zeta.vercel.app/)**
 - :love_letter: &nbsp;Let's talk more in **[Instagram](https://www.instagram.com/danilimbus/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/makakanos)**
-- :closed_book: &nbsp;My resume **[HH](https://hh.ru/resume/cb5d61dbff0bc77d7c0039ed1f6d6132455a55)**
-- :heart: &nbsp;Let's talk more in **[LinkedIn](https://www.linkedin.com/in/danil-grechkin-63679b268/)**
+- :closed_book: &nbsp;My resume **[HH](https://hh.ru/resume/cee3ba87ff0d8db1370039ed1f7a5665496f4a)**
+- :heart: &nbsp;Let's talk more in **[LinkedIn](https://www.linkedin.com/in/danylo-hrechkin-63679b268/)**
 
 <br>
 
