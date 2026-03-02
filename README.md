@@ -5,10 +5,7 @@
 - :sunglasses:&nbsp;Young promising
 - :grinning:&nbsp;Sociable and friendly
 - :art: &nbsp;My site portfolio **[Portfolio](https://new-portfolio-peach-ten.vercel.app/)**
-- :love_letter: &nbsp;Let's talk more in **[Instagram](https://www.instagram.com/danilimbus/)**
-- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/makakanos)**
-- :closed_book: &nbsp;My resume **[HH](https://hh.ru/resume/cee3ba87ff0d8db1370039ed1f7a5665496f4a)**
-- :heart: &nbsp;Let's talk more in **[LinkedIn](https://www.linkedin.com/in/danylo-hrechkin-63679b268/)**
+
 
 <br>
 
