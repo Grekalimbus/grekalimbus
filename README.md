@@ -4,7 +4,7 @@
 
 - :sunglasses:&nbsp;Young promising
 - :grinning:&nbsp;Sociable and friendly
-- :art: &nbsp;My site portfolio **[Portfolio](https://new-portfolio-peach-ten.vercel.app/)**
+
 
 
 <br>
